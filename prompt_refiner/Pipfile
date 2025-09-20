@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+dotenv = "*"
+
+[dev-packages]
+redlines = "*"
+build = "*"
+twine = "*"
+
+[requires]
+python_version = "3.13"
