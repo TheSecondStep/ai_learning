@@ -1,9 +1,1 @@
-// 忽略 cookbook 目录下的 .env 文件
 cookbook/.env
-
-// 同时也忽略所有其他可能的 .env 文件
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
